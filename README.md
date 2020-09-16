@@ -1,6 +1,8 @@
 # Pandas-DataFrame-using-.loc-iloc-
-Ways to Select rows and columns in Pandas DataFrame using [ ], .loc, iloc, .at and .iat¶ 
-By Michal Alabi  I will be using the wine quality dataset hosted on the UCI website. 
+Ways to Select rows and columns in Pandas DataFrame using [ ], .loc, iloc, 
+
+
+I will be using the wine quality dataset hosted on the UCI website. 
 The dataset can also be downloaded from https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009 
 
 The dataset contains 11 input variable and 1 output variable as shown below:  
